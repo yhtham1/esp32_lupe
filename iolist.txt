@@ -1,0 +1,8 @@
+
+https://sakura.yhata.net/tools/puki/?mh-et+live+esp32-minikit
+
+LED		GPIO2
+BUZZ		GPIO16,GPIO17
+SW RED		GPIO32
+SW WHITE 	GPIO12
+
