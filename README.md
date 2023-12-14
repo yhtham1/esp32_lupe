@@ -5,8 +5,8 @@
 MQTTをsubscrimeして2色のLEDをPWM制御
 
 使用部品 
-  Idが4A程度のN-MOS FET
-  ESP32
+  ・Idが4A程度のN-MOS FET
+  ・ESP32
 
 
 
